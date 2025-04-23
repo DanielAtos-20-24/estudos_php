@@ -1,6 +1,6 @@
 <?php
 echo "Olá mundo!";
 
-$idade = 22;
+$idade = 29;
 
 echo $idade + 10;
